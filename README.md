@@ -33,7 +33,7 @@ The poster is pretty heavy. Be sure to have enough memory before opening the fil
 
 ## Output
 
-![output](./output.png)
+
 
 ## Maintainers
 
