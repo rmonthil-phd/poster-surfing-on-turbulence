@@ -1,4 +1,4 @@
-# Poster on "Surfing on turbulence"
+# Scientific Presentation's Poster: "Surfing on turbulence"
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
