@@ -2,13 +2,15 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-A poster presentating my PhD work on "Surfing on turbulence".
-The whole poster is contained the sole [surfing_on_turbulence.svg](./surfing_on_turbulence.svg) file.
+A poster presenting the study of "surfing" on turbulence in the context of plankton migration.
+The whole poster is contained in the [surfing_on_turbulence.svg](./surfing_on_turbulence.svg) file alone.
+This document is shared so that it can be used as an example of scientific poster and a template to build upon.
 
 ## Background
 
-This software has been produced during my PhD thesis and as part as the European Research Council project: [C0PEP0D](https://c0pep0d.github.io/)
-Results presented here are obtained using the [SHELD0N](https://github.com/C0PEP0D/sheld0n) code and the [Johns Hopkins Turbulence Databases](http://turbulence.pha.jhu.edu/).
+This document has been produced during my PhD thesis and as part of the [C0PEP0D](https://c0pep0d.github.io/) project.
+This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 834238).
+Results presented in this document are obtained using the [SHELD0N](https://github.com/C0PEP0D/sheld0n) code and the [Johns Hopkins Turbulence Databases](http://turbulence.pha.jhu.edu/).
 
 ## Install
 
@@ -17,14 +19,14 @@ Results presented here are obtained using the [SHELD0N](https://github.com/C0PEP
 The file has been produced using [Inkscape](https://inkscape.org/fr/) an amazing free vectorial drawing tool. 
 You will most certainly need the [TexText](https://textext.github.io/textext/) to be able to edit latex blocks.
 
-Any other vectorial drawing tool should be able to open and edtit the file though.
+Any other vector drawing tool should be able to open and edit the file though.
 
 ### Installing
 
 Clone this repository or just download the [surfing_on_turbulence.svg](./surfing_on_turbulence.svg) file.
 
 ```sh
-$ git clone --recurse-submodules https://github.com/C0PEP0D/sheld0n.git
+$ git clone https://github.com/C0PEP0D/sheld0n.git
 ```
 
 ### Known issue
@@ -42,7 +44,7 @@ Rémi Monthiller - [@rmonthil](https://gitlab.com/rmonthil) - remi.monthiller@gm
 ## Contributing
 
 Feel free to dive in! [Open an issue](https://github.com/rmonthil/c0pep0d/issues/new) or submit PRs.
-Or just propose improvements for this poster.
+Feel free to contact me if you have any question about this work.
 
 ## License
 
